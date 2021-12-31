@@ -1,2 +1,2 @@
-# louqide
-I“start how to learn js
+#  C#
+I“start how to learn IT
